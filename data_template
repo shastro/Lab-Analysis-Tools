@@ -1,0 +1,11 @@
+x_axis: "title"
+y_axis: "title"
+title: "title"
+
+data:
+<float>
+<float>
+<float>
+...
+...
+...
